@@ -27,4 +27,6 @@ st.latex(r'''
 import streamlit as st
 
 
-45%6=
+v=12
+v%=7
+print(v)
